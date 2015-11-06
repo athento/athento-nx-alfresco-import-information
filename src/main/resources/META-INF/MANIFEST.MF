@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Require-Bundle: org.nuxeo.runtime
+Bundle-Vendor: Athento
+Bundle-Version: 1.0.0
+Bundle-Name: Athento-nx-alfresco-import-information
+Nuxeo-Component: OSGI-INF/Content-model/Documents/doctype-contrib.xml,
+ OSGI-INF/Content-model/Schemas/schemas-contrib.xml
+Bundle-ManifestVersion: 2
+Created-By: Athento
+Bundle-SymbolicName: athento-nx-alfresco-import-information
+
